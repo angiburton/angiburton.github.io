@@ -10,6 +10,9 @@
   /* prevent graphical glitches in WebKit browsers when using transitions */
 
 }
+/*.span6 #sequence-theme #sequence {
+	background: none;
+}*/
 #sequence-theme #sequence {
   height: 100%;
   margin: 0 auto;
